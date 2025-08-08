@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
