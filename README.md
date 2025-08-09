@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Hash Table
 |  |
 | ------- |
