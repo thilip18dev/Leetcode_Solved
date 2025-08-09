@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
