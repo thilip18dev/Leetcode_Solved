@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1954-replace-all-digits-with-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2401-count-asterisks](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2401-count-asterisks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
