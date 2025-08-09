@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+| [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
