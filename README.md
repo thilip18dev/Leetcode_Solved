@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2238-a-number-after-a-double-reversal) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 | [3371-harshad-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3371-harshad-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3830-find-closest-person) |
 ## Greedy
