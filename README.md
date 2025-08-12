@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
 |  |
