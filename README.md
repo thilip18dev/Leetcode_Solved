@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Counting
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting Sort
 |  |
 | ------- |
