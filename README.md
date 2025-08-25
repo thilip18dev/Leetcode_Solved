@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2401-count-asterisks) |
 | [2727-number-of-senior-citizens](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2727-number-of-senior-citizens) |
+| [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2639-separate-the-digits-in-an-array) |
+| [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
