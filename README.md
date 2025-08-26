@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0728-self-dividing-numbers) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2238-a-number-after-a-double-reversal) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 | [3371-harshad-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3371-harshad-number) |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
