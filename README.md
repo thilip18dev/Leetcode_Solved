@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2401-count-asterisks) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Hash Table
 |  |
 | ------- |
