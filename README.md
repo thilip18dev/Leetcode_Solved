@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2401-count-asterisks) |
 | [2727-number-of-senior-citizens](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2825-minimize-string-length](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
