@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Two Pointers
 |  |
 | ------- |
