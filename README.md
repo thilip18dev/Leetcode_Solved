@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3636-check-balanced-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3830-find-closest-person) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Greedy
@@ -185,4 +188,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
