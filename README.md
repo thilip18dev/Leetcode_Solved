@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
