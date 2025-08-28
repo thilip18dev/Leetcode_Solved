@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1547-destination-city](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1547-destination-city) |
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1954-replace-all-digits-with-characters) |
