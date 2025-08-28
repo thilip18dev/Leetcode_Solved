@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1547-destination-city) |
 | [1848-sum-of-unique-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
+| [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
