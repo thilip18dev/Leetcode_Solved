@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3636-check-balanced-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
