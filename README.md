@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
