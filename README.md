@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1547-destination-city](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1547-destination-city) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1848-sum-of-unique-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1848-sum-of-unique-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0728-self-dividing-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1965-sum-of-digits-in-base-k) |
