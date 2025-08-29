@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
