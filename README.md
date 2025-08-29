@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
+| [0898-transpose-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
+| [0898-transpose-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0898-transpose-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2639-separate-the-digits-in-an-array) |
 | [2886-faulty-keyboard](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2886-faulty-keyboard) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0898-transpose-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Number Theory
 |  |
