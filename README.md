@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -214,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
