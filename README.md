@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
