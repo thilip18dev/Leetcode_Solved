@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
