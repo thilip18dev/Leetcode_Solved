@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2639-separate-the-digits-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2238-a-number-after-a-double-reversal) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-calculate-delayed-arrival-time](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
 | [3371-harshad-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3371-harshad-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2825-minimize-string-length](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2427-first-letter-to-appear-twice) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
