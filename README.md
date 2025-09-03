@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1848-sum-of-unique-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
