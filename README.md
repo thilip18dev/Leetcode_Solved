@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Simulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
