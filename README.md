@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0176-second-highest-salary) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String Matching
 |  |
