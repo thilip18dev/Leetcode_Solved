@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1319-unique-number-of-occurrences) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0357-count-numbers-with-unique-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
