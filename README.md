@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0135-candy](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0164-maximum-gap) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
