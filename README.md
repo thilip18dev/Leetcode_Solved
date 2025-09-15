@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0728-self-dividing-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
+| [0357-count-numbers-with-unique-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
