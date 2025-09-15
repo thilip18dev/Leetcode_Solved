@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
