@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0240-search-a-2d-matrix-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1013-fibonacci-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
