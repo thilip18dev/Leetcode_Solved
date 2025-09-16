@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1182-game-play-analysis-iv) |
 | [1268-market-analysis-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1268-market-analysis-i) |
+| [1317-monthly-transactions-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1317-monthly-transactions-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String Matching
 |  |
