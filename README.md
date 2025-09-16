@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2215-finding-3-digit-even-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2502-sort-the-people) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2238-a-number-after-a-double-reversal) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-calculate-delayed-arrival-time](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2748-calculate-delayed-arrival-time) |
 | [2998-count-symmetric-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2998-count-symmetric-integers) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3447-clear-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
