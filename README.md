@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -378,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
