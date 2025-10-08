@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3830-find-closest-person) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Greedy
 |  |
