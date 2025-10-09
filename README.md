@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0657-robot-return-to-origin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0137-single-number-ii) |
+| [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2427-first-letter-to-appear-twice) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1137-height-checker) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1988-minimize-maximum-pair-sum-in-array) |
