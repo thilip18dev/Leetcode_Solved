@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0176-second-highest-salary) |
+| [0626-exchange-seats](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1182-game-play-analysis-iv) |
 | [1268-market-analysis-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1268-market-analysis-i) |
