@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0125-valid-palindrome) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
