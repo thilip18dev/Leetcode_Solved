@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0313-super-ugly-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0125-valid-palindrome) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0500-keyboard-row) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0137-single-number-ii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2308-divide-array-into-equal-pairs) |
