@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3533-snake-in-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3533-snake-in-matrix) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3830-find-closest-person) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/thilip18dev/Leetcode_Solved/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/thilip18dev/Leetcode_Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
