@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0055-jump-game) |
 | [0313-super-ugly-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0313-super-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0357-count-numbers-with-unique-digits) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quickselect
