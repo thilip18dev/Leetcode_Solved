@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0263-ugly-number) |
 | [0313-super-ugly-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0313-super-ugly-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thilip18dev/Leetcode_Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/thilip18dev/Leetcode_Solved/tree/master/1894-merge-strings-alternately) |
